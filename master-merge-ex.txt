@@ -1,2 +1,2 @@
-C
 Master teest file 
+conflict test file 
