@@ -1,2 +1,3 @@
+edited for rebase
 Master teest file 
 conflict test file 
